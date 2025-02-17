@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Andika", sans-serif;
+}
+.bg-darkBg {
+  background-color: #141625;
+}
+.bg-cardBg {
+  background-color: #1e2139;
+}
+.bg-primary {
+  background-color: #7c5dfa;
+}
+.bg-paid {
+  background-color: #33d69f;
+}
+.bg-pending {
+  background-color: #ff8f00;
+}
+.bg-draft {
+  background-color: #dfe3fa;
+}
